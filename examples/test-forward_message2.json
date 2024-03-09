@@ -1,0 +1,69 @@
+{
+    "update_id": 758020266,
+    "message": {
+        "message_id": 12,
+        "from": {
+            "id": 923873283,
+            "is_bot": false,
+            "first_name": "Aman",
+            "last_name": "Patel",
+            "username": "neoaman",
+            "language_code": "en"
+        },
+        "chat": {
+            "id": 923873283,
+            "first_name": "Aman",
+            "last_name": "Patel",
+            "username": "neoaman",
+            "type": "private"
+        },
+        "date": 1709989155,
+        "forward_origin": {
+            "type": "channel",
+            "chat": {
+                "id": -1001499379403,
+                "title": "😍 GALLERY 😍",
+                "type": "channel"
+            },
+            "message_id": 856,
+            "date": 1709988319
+        },
+        "forward_from_chat": {
+            "id": -1001499379403,
+            "title": "😍 GALLERY 😍",
+            "type": "channel"
+        },
+        "forward_from_message_id": 856,
+        "forward_date": 1709988319,
+        "photo": [
+            {
+                "file_id": "AgACAgUAAxkBAAMMZexdI0Thr4AypdRTytLppJIZumMAAqO7MRtE_lFX9GIctDpZX4wBAAMCAANzAAM0BA",
+                "file_unique_id": "AQADo7sxG0T-UVd4",
+                "file_size": 1562,
+                "width": 67,
+                "height": 90
+            },
+            {
+                "file_id": "AgACAgUAAxkBAAMMZexdI0Thr4AypdRTytLppJIZumMAAqO7MRtE_lFX9GIctDpZX4wBAAMCAANtAAM0BA",
+                "file_unique_id": "AQADo7sxG0T-UVdy",
+                "file_size": 22596,
+                "width": 240,
+                "height": 320
+            },
+            {
+                "file_id": "AgACAgUAAxkBAAMMZexdI0Thr4AypdRTytLppJIZumMAAqO7MRtE_lFX9GIctDpZX4wBAAMCAAN4AAM0BA",
+                "file_unique_id": "AQADo7sxG0T-UVd9",
+                "file_size": 96422,
+                "width": 600,
+                "height": 800
+            },
+            {
+                "file_id": "AgACAgUAAxkBAAMMZexdI0Thr4AypdRTytLppJIZumMAAqO7MRtE_lFX9GIctDpZX4wBAAMCAAN5AAM0BA",
+                "file_unique_id": "AQADo7sxG0T-UVd-",
+                "file_size": 178694,
+                "width": 960,
+                "height": 1280
+            }
+        ]
+    }
+}

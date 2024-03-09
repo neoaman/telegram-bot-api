@@ -1,0 +1,72 @@
+{
+    "update_id": 758020265,
+    "message": {
+        "message_id": 4,
+        "from": {
+            "id": 923873283,
+            "is_bot": False,
+            "first_name": "Aman",
+            "last_name": "Patel",
+            "username": "neoaman",
+            "language_code": "en"
+        },
+        "chat": {
+            "id": -1002121422688,
+            "title": "Test",
+            "type": "supergroup"
+        },
+        "date": 1709988964,
+        "forward_origin": {
+            "type": "user",
+            "sender_user": {
+                "id": 923873283,
+                "is_bot": False,
+                "first_name": "Aman",
+                "last_name": "Patel",
+                "username": "neoaman",
+                "language_code": "en"
+            },
+            "date": 1709988935
+        },
+        "forward_from": {
+            "id": 923873283,
+            "is_bot": False,
+            "first_name": "Aman",
+            "last_name": "Patel",
+            "username": "neoaman",
+            "language_code": "en"
+        },
+        "forward_date": 1709988935,
+        "photo": [
+            {
+                "file_id": "AgACAgUAAx0CfnJXYAADBGXsXGSBdx9gwId4b5JU1witizjsAAJ3uzEbS9phV6sLwKGIpRmPAQADAgADcwADNAQ",
+                "file_unique_id": "AQADd7sxG0vaYVd4",
+                "file_size": 1086,
+                "width": 90,
+                "height": 90
+            },
+            {
+                "file_id": "AgACAgUAAx0CfnJXYAADBGXsXGSBdx9gwId4b5JU1witizjsAAJ3uzEbS9phV6sLwKGIpRmPAQADAgADbQADNAQ",
+                "file_unique_id": "AQADd7sxG0vaYVdy",
+                "file_size": 21864,
+                "width": 320,
+                "height": 320
+            },
+            {
+                "file_id": "AgACAgUAAx0CfnJXYAADBGXsXGSBdx9gwId4b5JU1witizjsAAJ3uzEbS9phV6sLwKGIpRmPAQADAgADeAADNAQ",
+                "file_unique_id": "AQADd7sxG0vaYVd9",
+                "file_size": 117565,
+                "width": 800,
+                "height": 800
+            },
+            {
+                "file_id": "AgACAgUAAx0CfnJXYAADBGXsXGSBdx9gwId4b5JU1witizjsAAJ3uzEbS9phV6sLwKGIpRmPAQADAgADeQADNAQ",
+                "file_unique_id": "AQADd7sxG0vaYVd-",
+                "file_size": 228086,
+                "width": 1280,
+                "height": 1280
+            }
+        ],
+        "caption": "What is this"
+    }
+}

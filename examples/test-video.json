@@ -1,0 +1,46 @@
+{
+    "update_id": 606810121,
+    "message": {
+        "message_id": 41,
+        "from": {
+            "id": 923873283,
+            "is_bot": false,
+            "first_name": "Aman",
+            "last_name": "Patel",
+            "username": "neoaman",
+            "language_code": "en"
+        },
+        "chat": {
+            "id": 923873283,
+            "first_name": "Aman",
+            "last_name": "Patel",
+            "username": "neoaman",
+            "type": "private"
+        },
+        "date": 1709816322,
+        "video": {
+            "duration": 3,
+            "width": 720,
+            "height": 1280,
+            "mime_type": "video/mp4",
+            "thumbnail": {
+                "file_id": "AAMCBQADGQEAAyll6boC5oVdHjp7DDYSoKpmrOHRNgACWwoAAtMbUVcmj7zNdRLRWAEAB20AAzQE",
+                "file_unique_id": "AQADWwoAAtMbUVdy",
+                "file_size": 2237,
+                "width": 180,
+                "height": 320
+            },
+            "thumb": {
+                "file_id": "AAMCBQADGQEAAyll6boC5oVdHjp7DDYSoKpmrOHRNgACWwoAAtMbUVcmj7zNdRLRWAEAB20AAzQE",
+                "file_unique_id": "AQADWwoAAtMbUVdy",
+                "file_size": 2237,
+                "width": 180,
+                "height": 320
+            },
+            "file_id": "BAACAgUAAxkBAAMpZem6AuaFXR46eww2EqCqZqzh0TYAAlsKAALTG1FXJo-8zXUS0Vg0BA",
+            "file_unique_id": "AgADWwoAAtMbUVc",
+            "file_size": 167072
+        },
+        "caption": "Exmp video"
+    }
+}

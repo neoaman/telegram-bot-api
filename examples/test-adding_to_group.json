@@ -1,0 +1,52 @@
+{
+    "update_id": 758020252,
+    "my_chat_member": {
+        "chat": {
+            "id": -1001499379403,
+            "title": "😍 GALLERY 😍",
+            "type": "channel"
+        },
+        "from": {
+            "id": 923873283,
+            "is_bot": false,
+            "first_name": "Aman",
+            "last_name": "Patel",
+            "username": "neoaman",
+            "language_code": "en"
+        },
+        "date": 1709988021,
+        "old_chat_member": {
+            "user": {
+                "id": 6389970368,
+                "is_bot": true,
+                "first_name": "neo-bucket",
+                "username": "neobucket_bot"
+            },
+            "status": "left"
+        },
+        "new_chat_member": {
+            "user": {
+                "id": 6389970368,
+                "is_bot": true,
+                "first_name": "neo-bucket",
+                "username": "neobucket_bot"
+            },
+            "status": "administrator",
+            "can_be_edited": false,
+            "can_manage_chat": true,
+            "can_change_info": true,
+            "can_post_messages": true,
+            "can_edit_messages": true,
+            "can_delete_messages": true,
+            "can_invite_users": true,
+            "can_restrict_members": true,
+            "can_promote_members": false,
+            "can_manage_video_chats": true,
+            "can_post_stories": true,
+            "can_edit_stories": true,
+            "can_delete_stories": true,
+            "is_anonymous": false,
+            "can_manage_voice_chats": true
+        }
+    }
+}

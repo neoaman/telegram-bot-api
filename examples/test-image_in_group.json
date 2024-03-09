@@ -1,0 +1,47 @@
+{
+    "update_id": 758020255,
+    "channel_post": {
+        "message_id": 856,
+        "sender_chat": {
+            "id": -1001499379403,
+            "title": "😍 GALLERY 😍",
+            "type": "channel"
+        },
+        "chat": {
+            "id": -1001499379403,
+            "title": "😍 GALLERY 😍",
+            "type": "channel"
+        },
+        "date": 1709988319,
+        "photo": [
+            {
+                "file_id": "AgACAgUAAx0CWV62ywACA1hl7FnfTxHp8jeYIOaSzFLO_rTtyQACo7sxG0T-UVf0Yhy0OllfjAEAAwIAA3MAAzQE",
+                "file_unique_id": "AQADo7sxG0T-UVd4",
+                "file_size": 1562,
+                "width": 67,
+                "height": 90
+            },
+            {
+                "file_id": "AgACAgUAAx0CWV62ywACA1hl7FnfTxHp8jeYIOaSzFLO_rTtyQACo7sxG0T-UVf0Yhy0OllfjAEAAwIAA20AAzQE",
+                "file_unique_id": "AQADo7sxG0T-UVdy",
+                "file_size": 22596,
+                "width": 240,
+                "height": 320
+            },
+            {
+                "file_id": "AgACAgUAAx0CWV62ywACA1hl7FnfTxHp8jeYIOaSzFLO_rTtyQACo7sxG0T-UVf0Yhy0OllfjAEAAwIAA3gAAzQE",
+                "file_unique_id": "AQADo7sxG0T-UVd9",
+                "file_size": 96422,
+                "width": 600,
+                "height": 800
+            },
+            {
+                "file_id": "AgACAgUAAx0CWV62ywACA1hl7FnfTxHp8jeYIOaSzFLO_rTtyQACo7sxG0T-UVf0Yhy0OllfjAEAAwIAA3kAAzQE",
+                "file_unique_id": "AQADo7sxG0T-UVd-",
+                "file_size": 178694,
+                "width": 960,
+                "height": 1280
+            }
+        ]
+    }
+}
